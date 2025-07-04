@@ -109,7 +109,7 @@ The backend exposes a set of RESTful APIs to enable communication with the front
 *   **`RentalController`**: Responsible for processes related to car rentals, such as booking a car, managing existing rental agreements, and viewing rental history.
 *   **`UserController`** (or a similar name like `AuthController`): Manages user authentication (signup, login, logout), user profiles, and other user-specific data.
 
-
+<!---
 ## Contribution Guidelines
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
@@ -149,3 +149,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
     *   Submit the PR.
 
 Please ensure your code adheres to any existing coding standards and include tests if applicable.
+-->
